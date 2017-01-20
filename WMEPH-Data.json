@@ -7077,5 +7077,142 @@
             "psRequireUrl": "",
             "psAreaCode": "340"
         }
+    },
+    "regions": {
+        "Territories": {
+            "psAbbrev": "ATR",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Great Lakes": {
+            "psAbbrev": "GLR",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Mid-Atlantic": {
+            "psAbbrev": "MAR",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "New England": {
+            "psAbbrev": "NER",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Northeast": {
+            "psAbbrev": "NOR",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Northwest": {
+            "psAbbrev": "NWR",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Plains": {
+            "psAbbrev": "PLN",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "South Atlantic": {
+            "psAbbrev": "SAT",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "South Central": {
+            "psAbbrev": "SCR",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Southeast": {
+            "psAbbrev": "SER",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Southwest": {
+            "psAbbrev": "SWR",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Hawaii": {
+            "psAbbrev": "HI",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Texas": {
+            "psAbbrev": "TX",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Canada": {
+            "psAbbrev": "CAN",
+            "psRegion": "CAN",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "United States": {
+            "psAbbrev": "USA",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        }
     }
 }
