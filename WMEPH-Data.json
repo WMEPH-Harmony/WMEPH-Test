@@ -7079,8 +7079,8 @@
         }
     },
     "regions": {
-        "Territories": {
-            "psAbbrev": "ATR",
+        "ATR": {
+            "psName": "Territories",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7088,8 +7088,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "Great Lakes": {
-            "psAbbrev": "GLR",
+        "GLR": {
+            "psName": "Great Lakes",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7097,8 +7097,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "Mid-Atlantic": {
-            "psAbbrev": "MAR",
+        "MAR": {
+            "psName": "Mid-Atlantic",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7106,8 +7106,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "New England": {
-            "psAbbrev": "NER",
+        "NER": {
+            "psName": "New England",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7115,8 +7115,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "Northeast": {
-            "psAbbrev": "NOR",
+        "NOR": {
+            "psName": "Northeast",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7124,8 +7124,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "Northwest": {
-            "psAbbrev": "NWR",
+        "NWR": {
+            "psName": "Northwest",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7133,8 +7133,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "Plains": {
-            "psAbbrev": "PLN",
+        "PLN": {
+            "psName": "Plains",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7142,8 +7142,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "South Atlantic": {
-            "psAbbrev": "SAT",
+        "SAT": {
+            "psName": "South Atlantic",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7151,8 +7151,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "South Central": {
-            "psAbbrev": "SCR",
+        "SCR": {
+            "psName": "South Central",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7160,8 +7160,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "Southeast": {
-            "psAbbrev": "SER",
+        "SER": {
+            "psName": "Southeast",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7169,8 +7169,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "Southwest": {
-            "psAbbrev": "SWR",
+        "SWR": {
+            "psName": "Southwest",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7178,8 +7178,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "Hawaii": {
-            "psAbbrev": "HI",
+        "HI": {
+            "psName": "Hawaii",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7187,8 +7187,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "Texas": {
-            "psAbbrev": "TX",
+        "TX": {
+            "psName": "Texas",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7196,8 +7196,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "Canada": {
-            "psAbbrev": "CAN",
+        "CAN": {
+            "psName": "Canada",
             "psRegion": "CAN",
             "psGoogleForm": "",
             "psDefaultLock": "",
@@ -7205,8 +7205,8 @@
             "psRequireUrl": "",
             "psAreaCode": ""
         },
-        "United States": {
-            "psAbbrev": "USA",
+        "USA": {
+            "psName": "United States",
             "psRegion": "USA",
             "psGoogleForm": "",
             "psDefaultLock": "",
