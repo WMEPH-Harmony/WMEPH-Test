@@ -6994,5 +6994,88 @@
             "psRequireUrl": "",
             "psAreaCode": "867"
         }
+    },
+    "countries": {
+        "American Samoa": {
+            "psAbbrev": "AQ",
+            "psRegion": "ATR",
+            "psGoogleForm": "",
+            "psDefaultLock": "2",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": "684"
+        },
+        "Canada": {
+            "psAbbrev": "CA",
+            "psRegion": "CAN",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Northern Mariana Islands": {
+            "psAbbrev": "CQ",
+            "psRegion": "ATR",
+            "psGoogleForm": "",
+            "psDefaultLock": "2",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": "670"
+        },
+        "Micronesia": {
+            "psAbbrev": "FM",
+            "psRegion": "ATR",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Guam": {
+            "psAbbrev": "GQ",
+            "psRegion": "ATR",
+            "psGoogleForm": "",
+            "psDefaultLock": "2",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": "671"
+        },
+        "Marshal Islands": {
+            "psAbbrev": "MH",
+            "psRegion": "ATR",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Puerto Rico": {
+            "psAbbrev": "RQ",
+            "psRegion": "ATR",
+            "psGoogleForm": "",
+            "psDefaultLock": "2",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": "787,939"
+        },
+        "United States": {
+            "psAbbrev": "US",
+            "psRegion": "USA",
+            "psGoogleForm": "",
+            "psDefaultLock": "",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": ""
+        },
+        "Virgin Islands (U.S.)": {
+            "psAbbrev": "VQ",
+            "psRegion": "ATR",
+            "psGoogleForm": "",
+            "psDefaultLock": "2",
+            "psRequirePhone": "",
+            "psRequireUrl": "",
+            "psAreaCode": "340"
+        }
     }
 }
