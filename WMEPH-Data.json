@@ -1,0 +1,6420 @@
+{
+    "hmchp": [
+        "acupunc",
+        "allerg",
+        "alzheim",
+        "assisted",
+        "associat",
+        "asthma",
+        "cardio",
+        "chiro",
+        "chiroprac",
+        "clinic",
+        "clinical trial",
+        "cosmetic",
+        "counsel",
+        "dental",
+        "dentist",
+        "dermat",
+        "diabet",
+        "diagnos",
+        "doctor",
+        "dontic",
+        "endocrin",
+        "endosco",
+        "eyecare",
+        "family care",
+        "family health",
+        "family medicine",
+        "gastroent",
+        "great expressions",
+        "gyn",
+        "health",
+        "hearing",
+        "hemat",
+        "herba",
+        "holist",
+        "imaging",
+        "immunolog",
+        "insignia",
+        "integra",
+        "lab",
+        "laborator",
+        "laser",
+        "lasik",
+        "massage",
+        "medical group",
+        "medical record",
+        "medical suppl",
+        "neuro",
+        "obstet",
+        "oncolog",
+        "optic",
+        "Optic",
+        "optometr",
+        "ortho",
+        "osteopath",
+        "outreach",
+        "pediatr",
+        "pharma",
+        "physical ther",
+        "physician group",
+        "podiatr",
+        "practice",
+        "profession",
+        "psych",
+        "pulmon",
+        "radiolog",
+        "red cross",
+        "rehab",
+        "research",
+        "retire",
+        "rheum",
+        "specialist",
+        "sports",
+        "therap",
+        "throat",
+        "urolo",
+        "vision",
+        "weight"
+    ],
+    "hmchf": [
+        "blood",
+        "bone",
+        "cancer",
+        "care",
+        "cataract",
+        "center",
+        "dds",
+        "dmd",
+        "do",
+        "donor",
+        "dr",
+        "eye",
+        "foot",
+        "heart",
+        "homecare",
+        "hospice",
+        "joint",
+        "kids",
+        "lab",
+        "labs",
+        "living",
+        "office",
+        "pain",
+        "plastic",
+        "primary",
+        "quest",
+        "screening",
+        "smiles",
+        "spa",
+        "wellness",
+        "wic"
+    ],
+    "hmcap": [
+        "animal",
+        "veterinar",
+        "vetrinar"
+    ],
+    "hmcaf": [
+        "canine",
+        "cat",
+        "dog",
+        "dvm",
+        "feline",
+        "pet",
+        "vet"
+    ],
+    "schp": [
+        "ballet",
+        "child care",
+        "childcare",
+        "day care",
+        "daycare",
+        "driving",
+        "kinder",
+        "learning academ",
+        "learning center",
+        "office",
+        "preschool",
+        "real estate",
+        "salon",
+        "tutor"
+    ],
+    "schf": [
+        "beauty",
+        "dance",
+        "kid",
+        "kids",
+        "parking",
+        "recreation"
+    ],
+    "devList": [
+        "mapomatic",
+        "t0cableguy",
+        "ravendt",
+        "tonestertm"
+    ],
+    "betaList": [
+        "driving79",
+        "jakflash",
+        "carloslaso",
+        "xanderb",
+        "havanaday",
+        "pesachz",
+        "manoeuvre",
+        "hmarian",
+        "doctorkb",
+        "ottonomy",
+        "spankdog",
+        "bmtg",
+        "joyriding",
+        "fjsawicki",
+        "jwe252",
+        "uscwaller",
+        "machete808",
+        "bz2012",
+        "ehepner1977",
+        "roadtechie",
+        "nimbus-",
+        "itzwolf",
+        "mrbyte_ontheroad",
+        "ggrane",
+        "red-nax",
+        "justins83",
+        "jstrangfeld",
+        "randcon",
+        "stephenr1966",
+        "thelasttatertot",
+        "the_cre8r",
+        "doryphore_6",
+        "gunnargsd",
+        "joshjmm",
+        "ialangford",
+        "bruceqc",
+        "n4dog",
+        "jbayes",
+        "jr1982jr",
+        "cardyin",
+        "coolcanuck",
+        "glodenox",
+        "skyviewguru",
+        "vaindil",
+        "k-l-b",
+        "nacron",
+        "ronrover",
+        "jroman7",
+        "ardan74",
+        "wambuli",
+        "hawkeygoal",
+        "phoenixhawke",
+        "skyviewguru",
+        "bill473",
+        "dchary2418",
+        "iamthelexx",
+        "enembee",
+        "ropaswan",
+        "tater-head",
+        "michelle-s",
+        "triordan",
+        "blktruc",
+        "vtpearce",
+        "sar85",
+        "turbomkt",
+        "trackmum",
+        "tonytx05",
+        "jm6087",
+        "daref8",
+        "davidakachaos",
+        "jbucklee",
+        "jangliss",
+        "netguygreen",
+        "breadstk11",
+        "willdanneriv",
+        "dspille",
+        "helifino206",
+        "jtsmith2",
+        "tortured1",
+        "jonathanbourassa",
+        "picktownmapper",
+        "divyrr_doghym",
+        "cmdsouffle",
+        "bromsby",
+        "crob477",
+        "looler19"
+    ],
+    "catList": {
+        "CAR_SERVICES": {
+            "pcTitle": "Car Services",
+            "pcIndex": 1,
+            "pcPoint": 1,
+            "pcArea": 3,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "GAS_STATION": {
+            "pcTitle": "Gas Station",
+            "pcIndex": 2,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "AZ",
+                    "NM",
+                    "UT",
+                    "CA",
+                    "MN",
+                    "MO",
+                    "TX",
+                    "WI",
+                    "MAR",
+                    "DE",
+                    "NER"
+                ],
+                "pcLock4": [
+                    "PA",
+                    "NY",
+                    "NJ",
+                    "LA"
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "PARKING_LOT": {
+            "pcTitle": "Parking Lot",
+            "pcIndex": 3,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "GARAGE_AUTOMOTIVE_SHOP": {
+            "pcTitle": "Garage / Automotive Shop",
+            "pcIndex": 4,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "CAR_WASH": {
+            "pcTitle": "Car Wash",
+            "pcIndex": 5,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "CHARGING_STATION": {
+            "pcTitle": "Charging Station",
+            "pcIndex": 6,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "AZ",
+                    "NM",
+                    "UT",
+                    "MN",
+                    "MO",
+                    "NER"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "TRANSPORTATION": {
+            "pcTitle": "Transportation",
+            "pcIndex": 7,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER"
+                ],
+                "pcRare": [
+                    "SER"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "AIRPORT": {
+            "pcTitle": "Airport",
+            "pcIndex": 8,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "NV",
+                    "MN"
+                ],
+                "pcLock4": [
+                    "AZ",
+                    "WA",
+                    "MN",
+                    "MO",
+                    "MAR",
+                    "CAN",
+                    "NER"
+                ],
+                "pcLock5": [
+                    "SER",
+                    "SAT",
+                    "NM",
+                    "UT",
+                    "MN",
+                    "TX",
+                    "WI",
+                    "NOR",
+                    "LA"
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "BUS_STATION": {
+            "pcTitle": "Bus Station",
+            "pcIndex": 9,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "FERRY_PIER": {
+            "pcTitle": "Ferry Pier",
+            "pcIndex": 10,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX"
+                ],
+                "pcLock4": [
+                    "WA"
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "SEAPORT_MARINA_HARBOR": {
+            "pcTitle": "Seaport / Marina / Harbor",
+            "pcIndex": 11,
+            "pcPoint": 2,
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "SUBWAY_STATION": {
+            "pcTitle": "Subway Station",
+            "pcIndex": 12,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "NER"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "TRAIN_STATION": {
+            "pcTitle": "Train Station",
+            "pcIndex": 13,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "NER"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "BRIDGE": {
+            "pcTitle": "Bridge",
+            "pcIndex": 14,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "Use Bridge category only for a named road bridge with local or navigational significance.",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "TUNNEL": {
+            "pcTitle": "Tunnel",
+            "pcIndex": 15,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "TAXI_STATION": {
+            "pcTitle": "Taxi Station",
+            "pcIndex": 16,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "JUNCTION_INTERCHANGE": {
+            "pcTitle": "Junction / Interchange",
+            "pcIndex": 17,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER"
+                ],
+                "pcRare": [
+                    "SER",
+                    "TX",
+                    "CAN"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "PROFESSIONAL_AND_PUBLIC": {
+            "pcTitle": "Professional and Public",
+            "pcIndex": 18,
+            "pcPoint": 1,
+            "pcArea": 3,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "USA"
+                ],
+                "pcParent": [
+                    "USA",
+                    "CAN"
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "COLLEGE_UNIVERSITY": {
+            "pcTitle": "College / University",
+            "pcIndex": 19,
+            "pcPoint": 2,
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "AZ",
+                    "NM",
+                    "UT",
+                    "MN",
+                    "MO",
+                    "TX",
+                    "NOR",
+                    "NER"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER",
+                    "WA",
+                    "TX"
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 1,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 1,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "SCHOOL": {
+            "pcTitle": "School",
+            "pcIndex": 20,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "AZ",
+                    "NM",
+                    "UT",
+                    "MN",
+                    "MO",
+                    "TX",
+                    "NER"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER"
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": [
+                    "SER"
+                ],
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "USA"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "CONVENTIONS_EVENT_CENTER": {
+            "pcTitle": "Conventions / Event Center",
+            "pcIndex": 21,
+            "pcPoint": 2,
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 1,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "GOVERNMENT": {
+            "pcTitle": "Government",
+            "pcIndex": 22,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    "TX"
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "AZ",
+                    "NM",
+                    "UT",
+                    "MN",
+                    "MO",
+                    "TX",
+                    "NOR",
+                    "NER"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "LIBRARY": {
+            "pcTitle": "Library",
+            "pcIndex": 23,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    "LA"
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 1,
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": 2,
+                "psTakeAway": 1,
+                "psWheelchair": 1
+            }
+        },
+        "CITY_HALL": {
+            "pcTitle": "City Hall",
+            "pcIndex": 24,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    "TX",
+                    "LA"
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "TX"
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 1,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "ORGANIZATION_OR_ASSOCIATION": {
+            "pcTitle": "Organization or Association",
+            "pcIndex": 25,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "PRISON_CORRECTIONAL_FACILITY": {
+            "pcTitle": "Prison / Correctional Facility",
+            "pcIndex": 26,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "NV",
+                    "NOR"
+                ],
+                "pcLock4": [
+                    "WA"
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 1,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "COURTHOUSE": {
+            "pcTitle": "Courthouse",
+            "pcIndex": 27,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    "TX",
+                    "LA"
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX",
+                    "NOR"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 1,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "CEMETERY": {
+            "pcTitle": "Cemetery",
+            "pcIndex": 28,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "FIRE_DEPARTMENT": {
+            "pcTitle": "Fire Department",
+            "pcIndex": 29,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "Only Fire Stations providing first response to nearby emergencies should use this category.",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "NV",
+                    "TX"
+                ],
+                "pcLock4": [
+                    "AZ",
+                    "CA",
+                    "NM",
+                    "UT",
+                    "MN",
+                    "MO",
+                    "WI",
+                    "MAR",
+                    "NOR",
+                    "NER"
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "POLICE_STATION": {
+            "pcTitle": "Police Station",
+            "pcIndex": 30,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "NV",
+                    "TX"
+                ],
+                "pcLock4": [
+                    "AZ",
+                    "CA",
+                    "NM",
+                    "UT",
+                    "WA",
+                    "MN",
+                    "MO",
+                    "WI",
+                    "MAR",
+                    "NOR",
+                    "NER"
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "MILITARY": {
+            "pcTitle": "Military",
+            "pcIndex": 31,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "NOR"
+                ],
+                "pcLock4": [
+                    "WA",
+                    "AZ",
+                    "NM",
+                    "UT",
+                    "MN",
+                    "MO",
+                    "NER"
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "HOSPITAL_MEDICAL_CARE": {
+            "pcTitle": "Hospital / Medical Care",
+            "pcIndex": 32,
+            "pcPoint": "hosp",
+            "pcArea": 1,
+            "pcMessage": "Only Hospitals,Emergency Rooms,and Urgent Medical Care places should use this category. Other medical offices should use the Office category.",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "NV"
+                ],
+                "pcLock4": [
+                    "WA",
+                    "AZ",
+                    "NM",
+                    "UT",
+                    "CA",
+                    "MN",
+                    "MO",
+                    "WI",
+                    "MAR",
+                    "NOR",
+                    "CAN",
+                    "NER"
+                ],
+                "pcLock5": [
+                    "SER",
+                    "SAT",
+                    "HI",
+                    "TX"
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 1,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "OFFICES": {
+            "pcTitle": "Offices",
+            "pcIndex": 33,
+            "pcPoint": 1,
+            "pcArea": 3,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": 2,
+                "psTakeAway": 2,
+                "psWheelchair": [
+                    "SER"
+                ]
+            }
+        },
+        "POST_OFFICE": {
+            "pcTitle": "Post Office",
+            "pcIndex": 34,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    "SER",
+                    "TX",
+                    "LA"
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": "",
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 1,
+                "psParking": 1,
+                "psDeliveries": 1,
+                "psTakeAway": 1,
+                "psWheelchair": 1
+            }
+        },
+        "RELIGIOUS_CENTER": {
+            "pcTitle": "Religious Center",
+            "pcIndex": 35,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    "LA"
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": [
+                    "SER"
+                ]
+            }
+        },
+        "KINDERGARDEN": {
+            "pcTitle": "Kindergarten",
+            "pcIndex": 36,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    "LA"
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 1,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": [
+                    "SER"
+                ]
+            }
+        },
+        "FACTORY_INDUSTRIAL": {
+            "pcTitle": "Factory / Industrial",
+            "pcIndex": 37,
+            "pcPoint": 1,
+            "pcArea": 2,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "EMBASSY_CONSULATE": {
+            "pcTitle": "Embassy / Consulate",
+            "pcIndex": 38,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "AZ",
+                    "NM",
+                    "UT",
+                    "MN",
+                    "MO",
+                    "TX",
+                    "NER"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 1,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "INFORMATION_POINT": {
+            "pcTitle": "Information Point",
+            "pcIndex": 39,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": 2,
+                "psWheelchair": 2
+            }
+        },
+        "SHOPPING_AND_SERVICES": {
+            "pcTitle": "Shopping and Services",
+            "pcIndex": 40,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "ARTS_AND_CRAFTS": {
+            "pcTitle": "Arts & Crafts",
+            "pcIndex": 41,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "BANK_FINANCIAL": {
+            "pcTitle": "Bank / Financial",
+            "pcIndex": 42,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 1,
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "SPORTING_GOODS": {
+            "pcTitle": "Sporting Goods",
+            "pcIndex": 43,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "BOOKSTORE": {
+            "pcTitle": "Bookstore",
+            "pcIndex": 44,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "PHOTOGRAPHY": {
+            "pcTitle": "Photography",
+            "pcIndex": 45,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "CAR_DEALERSHIP": {
+            "pcTitle": "Car Dealership",
+            "pcIndex": 46,
+            "pcPoint": 1,
+            "pcArea": 2,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    "SER"
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": 2,
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": 1,
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "FASHION_AND_CLOTHING": {
+            "pcTitle": "Fashion and Clothing",
+            "pcIndex": 47,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "CONVENIENCE_STORE": {
+            "pcTitle": "Convenience Store",
+            "pcIndex": 48,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": 1,
+                "psDeliveries": 2,
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "PERSONAL_CARE": {
+            "pcTitle": "Personal Care",
+            "pcIndex": 49,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": 2,
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "DEPARTMENT_STORE": {
+            "pcTitle": "Department Store",
+            "pcIndex": 50,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 1,
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "PHARMACY": {
+            "pcTitle": "Pharmacy",
+            "pcIndex": 51,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "ELECTRONICS": {
+            "pcTitle": "Electronics",
+            "pcIndex": 52,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "FLOWERS": {
+            "pcTitle": "Flowers",
+            "pcIndex": 53,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": "",
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "FURNITURE_HOME_STORE": {
+            "pcTitle": "Furniture / Home Store",
+            "pcIndex": 54,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "GIFTS": {
+            "pcTitle": "Gifts",
+            "pcIndex": 55,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": "",
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "GYM_FITNESS": {
+            "pcTitle": "Gym / Fitness",
+            "pcIndex": 56,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": "",
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "SWIMMING_POOL": {
+            "pcTitle": "Swimming Pool",
+            "pcIndex": 57,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "HARDWARE_STORE": {
+            "pcTitle": "Hardware Store",
+            "pcIndex": 58,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "MARKET": {
+            "pcTitle": "Market",
+            "pcIndex": 59,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": 2,
+                "psWheelchair": 2
+            }
+        },
+        "SUPERMARKET_GROCERY": {
+            "pcTitle": "Supermarket / Grocery",
+            "pcIndex": 60,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 1,
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": 2,
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "JEWELRY": {
+            "pcTitle": "Jewelry",
+            "pcIndex": 61,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "LAUNDRY_DRY_CLEAN": {
+            "pcTitle": "Laundry / Dry Clean",
+            "pcIndex": 62,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": "",
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "SHOPPING_CENTER": {
+            "pcTitle": "Shopping Center",
+            "pcIndex": 63,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "MUSIC_STORE": {
+            "pcTitle": "Music Store",
+            "pcIndex": 64,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "PET_STORE_VETERINARIAN_SERVICES": {
+            "pcTitle": "Pet Store / Veterinarian Services",
+            "pcIndex": 65,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": 2,
+                "psOutside": "",
+                "psAirCond": 1,
+                "psParking": "",
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "TOY_STORE": {
+            "pcTitle": "Toy Store",
+            "pcIndex": 66,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "TRAVEL_AGENCY": {
+            "pcTitle": "Travel Agency",
+            "pcIndex": 67,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": 1,
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "ATM": {
+            "pcTitle": "ATM",
+            "pcIndex": 68,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "CURRENCY_EXCHANGE": {
+            "pcTitle": "Currency Exchange",
+            "pcIndex": 69,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "CAR_RENTAL": {
+            "pcTitle": "Car Rental",
+            "pcIndex": 70,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 1,
+                "psReservations": 1,
+                "psOutside": "",
+                "psAirCond": 2,
+                "psParking": 1,
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "FOOD_AND_DRINK": {
+            "pcTitle": "Food and Drink",
+            "pcIndex": 71,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    "USA",
+                    "CAN"
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "RESTAURANT": {
+            "pcTitle": "Restaurant",
+            "pcIndex": 72,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 1,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": "",
+                "psDeliveries": 2,
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "BAKERY": {
+            "pcTitle": "Bakery",
+            "pcIndex": 73,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": 2,
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "DESSERT": {
+            "pcTitle": "Dessert",
+            "pcIndex": 74,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": 2,
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "CAFE": {
+            "pcTitle": "Coffee shop",
+            "pcIndex": 75,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": "",
+                "psDeliveries": 2,
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "FAST_FOOD": {
+            "pcTitle": "Fast Food",
+            "pcIndex": 76,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": "",
+                "psDeliveries": 2,
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "FOOD_COURT": {
+            "pcTitle": "Food Court",
+            "pcIndex": 77,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "BAR": {
+            "pcTitle": "Bar",
+            "pcIndex": 78,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "ICE_CREAM": {
+            "pcTitle": "Ice Cream",
+            "pcIndex": 79,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "CULTURE_AND_ENTERTAINEMENT": {
+            "pcTitle": "Culture & Entertainment",
+            "pcIndex": 80,
+            "pcPoint": 1,
+            "pcArea": 2,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "ART_GALLERY": {
+            "pcTitle": "Art Gallery",
+            "pcIndex": 81,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "CASINO": {
+            "pcTitle": "Casino",
+            "pcIndex": 82,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 1,
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "CLUB": {
+            "pcTitle": "Club",
+            "pcIndex": 83,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": "",
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": 2,
+                "psWheelchair": ""
+            }
+        },
+        "TOURIST_ATTRACTION_HISTORIC_SITE": {
+            "pcTitle": "Tourist Attraction / Historic Site",
+            "pcIndex": 84,
+            "pcPoint": 1,
+            "pcArea": 2,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "TX"
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "MOVIE_THEATER": {
+            "pcTitle": "Movie Theater",
+            "pcIndex": 85,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 1,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 1,
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "MUSEUM": {
+            "pcTitle": "Museum",
+            "pcIndex": 86,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 1,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "MUSIC_VENUE": {
+            "pcTitle": "Music Venue",
+            "pcIndex": 87,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "PERFORMING_ARTS_VENUE": {
+            "pcTitle": "Performing Arts Venue",
+            "pcIndex": 88,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "GAME_CLUB": {
+            "pcTitle": "Game Club",
+            "pcIndex": 89,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "STADIUM_ARENA": {
+            "pcTitle": "Stadium / Arena",
+            "pcIndex": 90,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "If this is a small/local ballfield or arena,consider using the \\\"Sports Court\\\" category and making it a point place.",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER",
+                    "TX"
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 1,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "THEME_PARK": {
+            "pcTitle": "Theme Park",
+            "pcIndex": 91,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "ZOO_AQUARIUM": {
+            "pcTitle": "Zoo / Aquarium",
+            "pcIndex": 92,
+            "pcPoint": 2,
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "RACING_TRACK": {
+            "pcTitle": "Racing Track",
+            "pcIndex": 93,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    "LA"
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "THEATER": {
+            "pcTitle": "Theater",
+            "pcIndex": 94,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 1,
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "OTHER": {
+            "pcTitle": "Other",
+            "pcIndex": 95,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "USA",
+                    "CAN"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "RESIDENCE_HOME": {
+            "pcTitle": "Residence / Home",
+            "pcIndex": 96,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "CONSTRUCTION_SITE": {
+            "pcTitle": "Construction Site",
+            "pcIndex": 97,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "USA",
+                    "CAN"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "LODGING": {
+            "pcTitle": "Lodging",
+            "pcIndex": 98,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "HOTEL": {
+            "pcTitle": "Hotel",
+            "pcIndex": 99,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 1,
+                "psReservations": 1,
+                "psOutside": 2,
+                "psAirCond": 1,
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "HOSTEL": {
+            "pcTitle": "Hostel",
+            "pcIndex": 100,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "CAMPING_TRAILER_PARK": {
+            "pcTitle": "Camping / Trailer Park",
+            "pcIndex": 101,
+            "pcPoint": 1,
+            "pcArea": 2,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 1,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 1
+            }
+        },
+        "COTTAGE_CABIN": {
+            "pcTitle": "Cottage / Cabin",
+            "pcIndex": 102,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "BED_AND_BREAKFAST": {
+            "pcTitle": "Bed & Breakfast",
+            "pcIndex": 103,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 1,
+                "psOutside": 2,
+                "psAirCond": [
+                    "SER"
+                ],
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "OUTDOORS": {
+            "pcTitle": "Outdoors",
+            "pcIndex": 104,
+            "pcPoint": 1,
+            "pcArea": 2,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "PARK": {
+            "pcTitle": "Park",
+            "pcIndex": 105,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "MN"
+                ],
+                "pcLock4": [
+                    "NOR"
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "PLAYGROUND": {
+            "pcTitle": "Playground",
+            "pcIndex": 106,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": 2,
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "BEACH": {
+            "pcTitle": "Beach",
+            "pcIndex": 107,
+            "pcPoint": 2,
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER"
+                ],
+                "pcRare": [
+                    "SER",
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "SPORTS_COURT": {
+            "pcTitle": "Sports Court",
+            "pcIndex": 108,
+            "pcPoint": 1,
+            "pcArea": 2,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": [
+                    "SER"
+                ],
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "GOLF_COURSE": {
+            "pcTitle": "Golf Course",
+            "pcIndex": 109,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    "TX"
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": 2,
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "PLAZA": {
+            "pcTitle": "Plaza",
+            "pcIndex": 110,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "PROMENADE": {
+            "pcTitle": "Promenade",
+            "pcIndex": 111,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "USA"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "POOL": {
+            "pcTitle": "Pool",
+            "pcIndex": 112,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": 2,
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "SCENIC_LOOKOUT_VIEWPOINT": {
+            "pcTitle": "Scenic Lookout / Viewpoint",
+            "pcIndex": 113,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": 2,
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "SKI_AREA": {
+            "pcTitle": "Ski Area",
+            "pcIndex": 114,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "FL",
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": 2,
+                "psDriveThru": "",
+                "psWiFi": 2,
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 1,
+                "psAirCond": "",
+                "psParking": 1,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "NATURAL_FEATURES": {
+            "pcTitle": "Natural Features",
+            "pcIndex": 115,
+            "pcPoint": 2,
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "SER"
+                ],
+                "pcParent": [
+                    "USA",
+                    "CAN"
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "ISLAND": {
+            "pcTitle": "Island",
+            "pcIndex": 116,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER",
+                    "WA"
+                ],
+                "pcRare": [
+                    "SER",
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "SEA_LAKE_POOL": {
+            "pcTitle": "Sea / Lake / Pool",
+            "pcIndex": 117,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "Use the Sea/Lake/Pool category only if water is visually obvious to drivers on nearby roads. Do not remap features already present in the built-in Waze water layer unless that layer is incomplete or inaccurate.",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER",
+                    "WA"
+                ],
+                "pcRare": [
+                    "SER",
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "RIVER_STREAM": {
+            "pcTitle": "River / Stream",
+            "pcIndex": 118,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "Use the River/Stream category only if water is visually obvious to drivers on nearby roads. Do not remap features already present in the built-in Waze water layer unless that layer is incomplete or inaccurate.",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER",
+                    "WA"
+                ],
+                "pcRare": [
+                    "SER",
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "FOREST_GROVE": {
+            "pcTitle": "Forest / Grove",
+            "pcIndex": 119,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "Only map official state/national forests.",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "TX"
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "FARM": {
+            "pcTitle": "Farm",
+            "pcIndex": 120,
+            "pcPoint": 1,
+            "pcArea": "",
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    "TX"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": 2,
+                "psCreditCards": 2,
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "CANAL": {
+            "pcTitle": "Canal",
+            "pcIndex": 121,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER"
+                ],
+                "pcRare": [
+                    "SER"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "SWAMP_MARSH": {
+            "pcTitle": "Swamp / Marsh",
+            "pcIndex": 122,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER"
+                ],
+                "pcRare": [
+                    "SER"
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        },
+        "DAM": {
+            "pcTitle": "Dam",
+            "pcIndex": 123,
+            "pcPoint": "",
+            "pcArea": 1,
+            "pcMessage": "",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    ""
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": 2,
+                "psAirCond": "",
+                "psParking": 2,
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": 2
+            }
+        },
+        "EMERGENCY_SHELTER": {
+            "pcTitle": "Emergency Shelter",
+            "pcIndex": 124,
+            "pcPoint": 2,
+            "pcArea": 1,
+            "pcMessage": "Emergency Shelter type should only be used for places that should appear as crisis centers on the app. Please consult your regional managers for the appropriate use of this category.",
+            "services": {
+                "pcRegPoint": [
+                    ""
+                ],
+                "pcRegArea": [
+                    ""
+                ],
+                "pcLock1": [
+                    ""
+                ],
+                "pcLock2": [
+                    ""
+                ],
+                "pcLock3": [
+                    ""
+                ],
+                "pcLock4": [
+                    ""
+                ],
+                "pcLock5": [
+                    "SER"
+                ],
+                "pcRare": [
+                    ""
+                ],
+                "pcParent": [
+                    ""
+                ],
+                "psValet": "",
+                "psDriveThru": "",
+                "psWiFi": "",
+                "psRestrooms": "",
+                "psCreditCards": "",
+                "psReservations": "",
+                "psOutside": "",
+                "psAirCond": "",
+                "psParking": "",
+                "psDeliveries": "",
+                "psTakeAway": "",
+                "psWheelchair": ""
+            }
+        }
+    }
+}
