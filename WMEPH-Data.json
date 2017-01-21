@@ -6425,6 +6425,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "403,587,780,825"
         },
         "Alaska": {
@@ -6434,6 +6435,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "907"
         },
         "Alabama": {
@@ -6443,6 +6445,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "205,251,256,334,938"
         },
         "Arkansas": {
@@ -6452,6 +6455,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "479,501,870"
         },
         "Arizona": {
@@ -6461,6 +6465,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "480,520,602,623,928"
         },
         "British Columbia": {
@@ -6470,6 +6475,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "236,250,604,778"
         },
         "California": {
@@ -6479,6 +6485,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "209,213,310,323,408,415,424,442,510,530,559,562,619,626,628,650,657,661,669,707,714,747,760,805,818,831,858,909,916,925,949,951"
         },
         "Colorado": {
@@ -6488,6 +6495,7 @@
             "psDefaultLock": "4",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "303,719,720,970"
         },
         "Connecticut": {
@@ -6497,6 +6505,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "203,475,860,959"
         },
         "District of Columbia": {
@@ -6506,6 +6515,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "202"
         },
         "Delaware": {
@@ -6515,6 +6525,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "302"
         },
         "Florida": {
@@ -6524,6 +6535,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "239,305,321,352,386,407,561,727,754,772,786,813,850,863,904,941,954"
         },
         "Georgia": {
@@ -6533,6 +6545,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "229,404,470,478,678,706,762,770,912"
         },
         "Hawaii": {
@@ -6542,6 +6555,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "808"
         },
         "Iowa": {
@@ -6551,6 +6565,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "319,515,563,641,712"
         },
         "Idaho": {
@@ -6560,6 +6575,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "208"
         },
         "Illinois": {
@@ -6569,6 +6585,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "217,224,309,312,331,618,630,708,773,779,815,847,872"
         },
         "Indiana": {
@@ -6578,6 +6595,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "219,260,317,463,574,765,812,930"
         },
         "Kansas": {
@@ -6587,6 +6605,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "316,620,785,913"
         },
         "Kentucky": {
@@ -6596,6 +6615,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "270,364,502,606,859"
         },
         "Louisiana": {
@@ -6605,6 +6625,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "225,318,337,504,985"
         },
         "Massachusetts": {
@@ -6614,6 +6635,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "339,351,413,508,617,774,781,857,978"
         },
         "Manitoba": {
@@ -6623,6 +6645,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "204,431"
         },
         "Maryland": {
@@ -6632,6 +6655,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "240,301,410,443,667"
         },
         "Maine": {
@@ -6641,6 +6665,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "207"
         },
         "Michigan": {
@@ -6650,6 +6675,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": 1,
             "psRequireUrl": 1,
+            "psPhoneFormat": "",
             "psAreaCode": "231,248,269,313,517,586,616,734,810,906,947,989"
         },
         "Minnesota": {
@@ -6659,6 +6685,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "218,320,507,612,651,763,952"
         },
         "Missouri": {
@@ -6668,6 +6695,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "314,417,573,636,660,816"
         },
         "Mississippi": {
@@ -6677,6 +6705,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "228,601,662,769"
         },
         "Montana": {
@@ -6686,6 +6715,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "406"
         },
         "New Brunswick": {
@@ -6695,6 +6725,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "506"
         },
         "North Carolina": {
@@ -6704,6 +6735,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "252,336,704,743,828,910,919,980,984"
         },
         "North Dakota": {
@@ -6713,6 +6745,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "701"
         },
         "Nebraska": {
@@ -6722,6 +6755,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "308,402,531"
         },
         "New Hampshire": {
@@ -6731,6 +6765,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "603"
         },
         "New Jersey": {
@@ -6740,6 +6775,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "201,551,609,732,848,856,862,908,973"
         },
         "Newfoundland And Labrador": {
@@ -6749,6 +6785,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "709"
         },
         "New Mexico": {
@@ -6758,6 +6795,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "505,575"
         },
         "Nova Scotia": {
@@ -6767,6 +6805,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "782,902"
         },
         "Northwest Territories": {
@@ -6776,6 +6815,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "867"
         },
         "Nunavut": {
@@ -6785,6 +6825,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "867"
         },
         "Nevada": {
@@ -6794,6 +6835,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "702,725,775"
         },
         "New York": {
@@ -6803,6 +6845,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "212,315,347,516,518,585,607,631,646,680,716,718,845,914,917,929,934"
         },
         "Ohio": {
@@ -6812,6 +6855,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "216,220,234,330,380,419,440,513,567,614,740,937"
         },
         "Oklahoma": {
@@ -6821,6 +6865,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "405,539,580,918"
         },
         "Ontario": {
@@ -6830,6 +6875,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "226,249,289,343,365,416,437,519,548,613,647,705,807,905"
         },
         "Oregon": {
@@ -6839,6 +6885,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "458,503,541,971"
         },
         "Pennsylvania": {
@@ -6848,6 +6895,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "215,267,272,412,484,570,610,717,724,814,878"
         },
         "Prince Edward Island": {
@@ -6857,6 +6905,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "782,902"
         },
         "Quebec": {
@@ -6866,6 +6915,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "418,438,450,514,579,581,819,873"
         },
         "Rhode Island": {
@@ -6875,6 +6925,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "401"
         },
         "South Carolina": {
@@ -6884,6 +6935,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "803,843,854,864"
         },
         "South Dakota": {
@@ -6893,6 +6945,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "605"
         },
         "Saskatchewan": {
@@ -6902,6 +6955,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "306,639"
         },
         "Tennessee": {
@@ -6911,6 +6965,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "423,615,629,731,865,901,931"
         },
         "Texas": {
@@ -6920,6 +6975,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "210,214,254,281,325,346,361,409,430,432,469,512,682,713,726,737,806,817,830,832,903,915,936,940,956,972,979"
         },
         "Utah": {
@@ -6929,6 +6985,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "385,435,801"
         },
         "Virginia": {
@@ -6938,6 +6995,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": 2,
             "psAreaCode": "276,434,540,571,703,757,804"
         },
         "Vermont": {
@@ -6947,6 +7005,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "802"
         },
         "Washington": {
@@ -6956,6 +7015,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "206,253,360,425,509,564"
         },
         "Wisconsin": {
@@ -6965,6 +7025,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "262,414,534,608,715,920"
         },
         "West Virginia": {
@@ -6974,6 +7035,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "304,681"
         },
         "Wyoming": {
@@ -6983,6 +7045,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "307"
         },
         "Yukon Territory": {
@@ -6992,6 +7055,7 @@
             "psDefaultLock": "3",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "867"
         }
     },
@@ -7003,6 +7067,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "684"
         },
         "Canada": {
@@ -7012,6 +7077,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": 1,
             "psAreaCode": ""
         },
         "Northern Mariana Islands": {
@@ -7021,16 +7087,8 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "670"
-        },
-        "Micronesia": {
-            "psAbbrev": "FM",
-            "psRegion": "ATR",
-            "psGoogleForm": "",
-            "psDefaultLock": "",
-            "psRequirePhone": "",
-            "psRequireUrl": "",
-            "psAreaCode": ""
         },
         "Guam": {
             "psAbbrev": "GQ",
@@ -7039,6 +7097,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "671"
         },
         "Marshal Islands": {
@@ -7048,6 +7107,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "Puerto Rico": {
@@ -7057,6 +7117,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "787,939"
         },
         "United States": {
@@ -7066,6 +7127,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": 0,
             "psAreaCode": ""
         },
         "Virgin Islands (U.S.)": {
@@ -7075,6 +7137,7 @@
             "psDefaultLock": "2",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": "340"
         }
     },
@@ -7086,6 +7149,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "GLR": {
@@ -7095,6 +7159,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "MAR": {
@@ -7104,6 +7169,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "NER": {
@@ -7113,6 +7179,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "NOR": {
@@ -7122,6 +7189,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "NWR": {
@@ -7131,6 +7199,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "PLN": {
@@ -7140,6 +7209,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "SAT": {
@@ -7149,6 +7219,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "SCR": {
@@ -7158,6 +7229,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "SER": {
@@ -7167,6 +7239,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "SWR": {
@@ -7176,6 +7249,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "HI": {
@@ -7185,6 +7259,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "TX": {
@@ -7194,6 +7269,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "",
             "psAreaCode": ""
         },
         "CAN": {
@@ -7203,6 +7279,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "1",
             "psAreaCode": ""
         },
         "USA": {
@@ -7212,6 +7289,7 @@
             "psDefaultLock": "",
             "psRequirePhone": "",
             "psRequireUrl": "",
+            "psPhoneFormat": "0",
             "psAreaCode": ""
         }
     }
